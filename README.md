@@ -8,3 +8,6 @@ Here is what we are going to do
 4) The servers receive requests through the load balancer. 
 5) The servers can connect to the internet by using a NAT gateway. 
 6) To improve resiliency, you deploy the NAT gateway in both Availability Zones.
+
+
+![alt text](<Screenshot from 2025-09-11 22-56-01.png>)
