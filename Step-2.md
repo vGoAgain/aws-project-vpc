@@ -12,3 +12,6 @@ Create Auto Scaling group
         b) Allow tcp connection on port 8000
 3) After the launch template is created go back tot he auto scaling group creation page and find the template you created in the dropdown
 4) Proceed with the options
+
+
+So the ec2 server where the applications are going to be hosted are in the private subnet. They are not reachable via the internet.

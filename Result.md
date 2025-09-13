@@ -1,0 +1,1 @@
+After all the steps you can try to access the application via the load balancer url.
